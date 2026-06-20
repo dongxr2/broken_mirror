@@ -4,7 +4,7 @@ This repository contains the raw data and code for the paper **A Broken Mirror: 
 
 ## Repository contents
 
-Raw data are stored in the split archive _tennis_cahe.part01.rar / _tennis_cahe.part02.rar (extract by pointing your tool at part01), and the core analysis code is in the Python (*.py) files. Any additional resources will also be released here in the future.
+Raw data are stored in the split archive _tennis_cache.part01.rar / _tennis_cache.part02.rar (extract by pointing your tool at part01), and the core analysis code is in the Python (*.py) files. Any additional resources will also be released here in the future.
 
 ## Requirements
 
